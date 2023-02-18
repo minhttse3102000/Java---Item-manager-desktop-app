@@ -1,1 +1,1 @@
-# Java-desktop---Item-manager-app
+# Java desktop - Item manager app
